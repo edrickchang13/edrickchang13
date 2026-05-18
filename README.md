@@ -29,7 +29,7 @@ I build AI-powered systems and full-stack applications — from real-time legal 
         |---|---|---|---|
         | [Power2ThePeople](https://github.com/rayyanh192/Power2ThePeople) | Real-time AI legal assistant using live video/audio to detect missed procedural safeguards | Python · RAG · NVIDIA DGX | 🥇 1st / 75 teams — NVIDIA Spark Hackathon |
         | [Pitch Tank (sharktank)](https://github.com/edrickchang13/sharktank) | Real-time AI pitch simulator — founders pitch to virtual VC judges via live audio/video | Python · FastAPI · TRTC · Vision Agents | 🥇 1st — Hack-A-Stack / Tencent Cloud Sprint |
-        | [DevAngel](https://github.com/edrickchang13/DevAngel) | Agentic incident response system — multi-stage detection, triage & resolution on AWS | Python · AWS · React · Docker | 🥈 2nd / 40 teams — AWS x INRIX Hackathon |
+        | [DevAngel](https://github.com/MatthiasMasiero/DevAngel) | Agentic incident response system — multi-stage detection, triage & resolution on AWS | Python · AWS · React · Docker | 🥈 2nd / 40 teams — AWS x INRIX Hackathon |
         | [SMAR Backend](https://github.com/scuhci/SAR-backend) | Full-stack tool enabling researchers to bulk-scrape app data from Google Play & iOS App Store | JavaScript · React · Node.js · CI/CD | SCU HCI Lab Research |
         | [BrickScan](https://github.com/edrickchang13/BrickScan) | ML-powered LEGO brick identifier using computer vision | Python | Personal Project |
         | Biofeedback System (DART Lab) | Biosensor pipelines for real-time physiological signal processing, PyTorch stress classification | Python, PyTorch | SCU DART Lab |
