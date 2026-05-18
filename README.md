@@ -1,13 +1,12 @@
 # Hi, I'm Edrick Chang 👋
 
-**CS&E @ Santa Clara University '27 | GPA: 3.8/4.0**
+**CS&E @ Santa Clara University '27 | AI/ML & Full-Stack**
 
 I build AI-powered systems and full-stack applications — from real-time legal AI assistants to mobile app data platforms. I love shipping things that matter, fast.
 
 - 🏆 **3x Hackathon Winner** — 1st @ NVIDIA DGX Spark (75 teams), 1st @ Hack-A-Stack/Tencent, 2nd @ AWS x INRIX (40 teams)
  - 🔬 **Undergraduate Researcher** @ DART Lab (SCU) — PyTorch stress classification from biosensors, 87%+ accuracy
    - 💼 **Full-Stack Developer** @ SCU HCI Lab — building SMAR, a Google Play + App Store bulk research tool
-     - 🤝 **Incoming AI Legal Intern** @ Goodwin LLP (Summer 2026) — LLM pipelines & workflow automation
        - 📍 Santa Clara, CA
        
         ---
