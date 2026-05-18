@@ -5,7 +5,7 @@
 I build AI-powered systems and full-stack applications — from real-time legal AI assistants to mobile app data platforms. I love shipping things that matter, fast.
 
 - 🏆 **3x Hackathon Winner** — 1st @ NVIDIA DGX Spark (75 teams), 1st @ Hack-A-Stack/Tencent, 2nd @ AWS x INRIX (40 teams)
- - 🔬 **Undergraduate Researcher** @ DART Lab (SCU) — PyTorch stress classification from biosensors, 87%+ accuracy
+ - 🔬 **Undergraduate Researcher** @ DART Lab (SCU) — PyTorch stress classification from biosensors
    - 💼 **Full-Stack Developer** @ SCU HCI Lab — building SMAR, a Google Play + App Store bulk research tool
        - 📍 Santa Clara, CA
        
@@ -32,7 +32,7 @@ I build AI-powered systems and full-stack applications — from real-time legal 
         | [DevAngel](https://github.com/edrickchang13/DevAngel) | Agentic incident response system — multi-stage detection, triage & resolution on AWS | Python · AWS · React · Docker | 🥈 2nd / 40 teams — AWS x INRIX Hackathon |
         | [SMAR Backend](https://github.com/scuhci/SAR-backend) | Full-stack tool enabling researchers to bulk-scrape app data from Google Play & iOS App Store | JavaScript · React · Node.js · CI/CD | SCU HCI Lab Research |
         | [BrickScan](https://github.com/edrickchang13/BrickScan) | ML-powered LEGO brick identifier using computer vision | Python | Personal Project |
-        | Biofeedback System (DART Lab) | Biosensor pipelines at 100+ Hz, PyTorch stress classification with 87%+ accuracy | Python, PyTorch | SCU DART Lab |
+        | Biofeedback System (DART Lab) | Biosensor pipelines for real-time physiological signal processing, PyTorch stress classification | Python, PyTorch | SCU DART Lab |
 
         ---
 
