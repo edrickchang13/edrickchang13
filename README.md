@@ -32,7 +32,7 @@ I build AI-powered systems and full-stack applications — from real-time legal 
         | [DevAngel](https://github.com/edrickchang13/DevAngel) | Agentic incident response system — multi-stage detection, triage & resolution on AWS | Python · AWS · React · Docker | 🥈 2nd / 40 teams — AWS x INRIX Hackathon |
         | [SMAR Backend](https://github.com/scuhci/SAR-backend) | Full-stack tool enabling researchers to bulk-scrape app data from Google Play & iOS App Store | JavaScript · React · Node.js · CI/CD | SCU HCI Lab Research |
         | [BrickScan](https://github.com/edrickchang13/BrickScan) | ML-powered LEGO brick identifier using computer vision | Python | Personal Project |
-        | Biofeedback System (DART Lab) | Real-time data pipelines ingesting & preprocessing physiological signals from wearables at 100+ Hz; PyTorch ML models classifying stress states with 87%+ accuracy | Python · PyTorch · NumPy · pandas | SCU DART Lab Research |
+        | Biofeedback System (DART Lab) | Real-time data pipelines ingesting & preprocessing physiological signals from wearables at 100+ Hz; PyTorch ML models classifying 
 
         ---
 
@@ -44,5 +44,4 @@ I build AI-powered systems and full-stack applications — from real-time legal 
 
         ---
 
-stress states with 87%+ accuracy | Python · PyTorch · NumPy · pandas | SCU DART Lab Research |
         *Open to Summer 2027 internships in AI/ML, full-stack engineering, or applied research.*
