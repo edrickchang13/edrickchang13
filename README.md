@@ -1,6 +1,6 @@
 # Hi, I'm Edrick Chang 👋
 
-**CS&E @ Santa Clara University '27 | AI/ML & Full-Stack**
+**CS&E @ Santa Clara University '28 | AI/ML & Full-Stack**
 
 I build AI-powered systems and full-stack applications — from real-time legal AI assistants to mobile app data platforms. I love shipping things that matter, fast.
 
